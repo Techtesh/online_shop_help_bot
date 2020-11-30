@@ -8,7 +8,7 @@ import Ama_DB_manager
 import Ama_scrape_try2
 from telegram import *
 from telegram.ext import *
-Bot_KEY="1208693478:AAG0R0iTTVrxMKSVmYUsZGP4Wd0EavlKAEM"
+Bot_KEY="GET YOUR OWN"
 bot=Bot(Bot_KEY)
 keyword,chatid="",""
 #print(bot.get_me())
